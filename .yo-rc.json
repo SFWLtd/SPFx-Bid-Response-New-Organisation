@@ -1,0 +1,7 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "neworganisation-webpart",
+    "libraryId": "7475f1b3-6940-4b42-9d4c-298db20e3343",
+    "framework": "react"
+  }
+}

@@ -1,0 +1,31 @@
+.container {
+  text-align: center;
+}
+
+.dataInput {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20em;
+}
+
+.orgLabel {
+  padding: 15px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.orgButton {
+  padding: 20px;
+}
+
+.createButton {
+  display: none;
+  margin-bottom: 15px;
+}
+
+.containerEnd {
+  display: none;
+  font-size: 30px;
+  color: green;
+}

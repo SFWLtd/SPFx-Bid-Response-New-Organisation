@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "neworganisation-webpart-client-side-solution",
+    "id": "7475f1b3-6940-4b42-9d4c-298db20e3343",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/neworganisation-webpart.spapp"
+  }
+}
